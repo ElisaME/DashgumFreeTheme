@@ -198,7 +198,7 @@ a{
 	border-radius: 20px !important;
 }
 #focusedInput{
-	color: #9C0000;
+	color: #000;
 	border-color: #9C0000;
 }
 /* BasicTables */
@@ -206,4 +206,9 @@ a{
 	background-color: #fff;
 	box-shadow: 1px 2px 1px #ABABAB;
 	padding: 2%;
+}
+/* Gallery */
+.desc2{
+	border-bottom: none;
+	padding-top:2%;
 }
