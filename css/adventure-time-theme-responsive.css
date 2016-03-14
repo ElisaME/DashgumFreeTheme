@@ -1,1 +1,6 @@
 /*Inserta tu Codigo Responsive*/
+@media screen and (max-width: 768px)  {
+	.form-login{
+		width:90%;
+	}
+}
