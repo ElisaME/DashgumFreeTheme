@@ -103,6 +103,9 @@ a{
 .sub-menu:hover{
 	background-color:#A04FB8;
 }
+/* .sidebar-menu .sub-menu > .active > a{
+	background-color: #B74388;
+} */
 .sub-menu a{
 	color: #ABABAB;
 }
@@ -211,4 +214,12 @@ a{
 .desc2{
 	border-bottom: none;
 	padding-top:2%;
+}
+/* Modal LogIn */
+.modal-dialog .form-login{
+	background-color: #fff;
+	width: 80%;
+	padding: 2%;
+	border-radius: 2%;
+	margin: 2% auto;
 }
